@@ -1,5 +1,5 @@
 
-<h2>Oii sou a Michelle! Curso Engenharia de Computação no <a style="color:#87CEEB" href="https://maua.br/"> Instituto Mauá de Tecnologia</a></u>.</h2> 
+<h3>Oii sou a Michelle! Curso Engenharia de Computação no <a style="color:#87CEEB" href="https://maua.br/"> Instituto Mauá de Tecnologia</a></u>.</h3> 
 
 <div style="display: flex; ">
     <img height="165" alt="Haru" src="https://cdn.discordapp.com/attachments/1001707384831483905/1007507919589343313/WhatsApp_Image_2022-08-12_at_00.52_1.png">
