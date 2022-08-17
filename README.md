@@ -1,5 +1,5 @@
 
-<h2>Oii sou a Michelle! Estudo <b style="color:#87CEEB"> Engenharia de Computação </b> no <u> <a style="color:#87CEEB" href="https://maua.br/"> Instituto Mauá de Tecnologia</a></u>.</h2> 
+<h2>Oii sou a Michelle! Curso Engenharia de Computação no <a style="color:#87CEEB" href="https://maua.br/"> Instituto Mauá de Tecnologia</a></u>.</h2> 
 
 <div style="display: flex; ">
     <img height="165"
@@ -19,16 +19,13 @@
 </div>
 <hr>
 
-<div style="display: flex;">
-        <a href="mailto:michellehmzk@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
-        <a href="https://www.linkedin.com/in/michelle-hmzk/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>!
-            [Snake animation](https://github.com/Michelle-Hmzk/Michelle-Hmzk/blob/output/github-contribution-grid-snake.svg)
-      </div>
-
+<div> 
+  <a href = "mailto:michellehmzk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/michelle-hmzk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 <!--
 **Michelle-Hmzk/Michelle-Hmzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
