@@ -7,7 +7,7 @@
      Estou estudando:<br>
      (☞ﾟヮﾟ)☞ JS <br>
      (☞ﾟヮﾟ)☞ Java <br>
-     (☞ﾟヮﾟ)☞ Pythonn
+     (☞ﾟヮﾟ)☞ Python
 </div>
 
 ##
